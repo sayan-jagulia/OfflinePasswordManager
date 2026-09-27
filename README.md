@@ -2,8 +2,8 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Platform](https://img.shields.io/badge/platform-windows%20%7C%20linux-lightgrey)](https://github.com/SaYaN00101/OfflinePasswordManager)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/SaYaN00101/OfflinePasswordManager)
+[![Platform](https://img.shields.io/badge/platform-windows%20%7C%20linux-lightgrey)](https://github.com/sayan-jagulia/OfflinePasswordManager)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/sayan-jagulia/OfflinePasswordManager)
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/bca05455-b2b3-4113-8e9d-6da933e9b7c5" alt="Password Manager Banner" width="800"/>
@@ -92,7 +92,7 @@ OfflinePasswordManager/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/OfflinePasswordManager.git
+  git clone https://github.com/sayan-jagulia/OfflinePasswordManager.git
 cd OfflinePasswordManager
 ```
 
@@ -184,7 +184,7 @@ See the [LICENSE](LICENSE) file for the full legal text.
 ## 👤 Author
 
 Sayan Jagulia
-- GitHub: https://github.com/SaYaN00101
+- GitHub: https://github.com/sayan-jagulia
 - LinkedIn: www.linkedin.com/in/sayan-jagulia-s1y1n 
 
 <div align="center">
